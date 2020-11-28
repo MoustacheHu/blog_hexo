@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: MoustacheHu的博客
-subtitle: ''
-description: Web
-keywords:
+title: FANFOU
+subtitle: '你今天吃饭了吗？'
+description: '前端知识：React、Nodejs、Nginx、算法、HTTP、Webpack、Git命令、可视化系统、Typescript、H5、Restful Api、响应式布局、微信小程序、Promise、Axios、Fetch'
+keywords: '前端、react'
 author: Hide.On.Bush
 language: zh-CN
 timezone: 'Asia/Shanghai'
@@ -99,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-matery
+theme: custom
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -122,10 +122,10 @@ permalink_pinyin:
 postInfo:
   date: true
   update: false
-  wordCount: false # 设置文章字数统计为 true.
-  totalCount: false # 设置站点文章总字数统计为 true.
+  wordCount: true # 设置文章字数统计为 true.
+  totalCount: true # 设置站点文章总字数统计为 true.
   min2read: false # 阅读时长.
-  readCount: false # 阅读次数.
+  readCount: true # 阅读次数.
 
 # Emoji
 githubEmojis:
